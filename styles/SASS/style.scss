@@ -6,6 +6,11 @@ $font-2:'Montserrat', sans-serif;
 
 
 // The styling for the header begins here.
+.body{
+    margin: 0;
+    padding:0;
+}
+
 .wrapper{
     margin:0 auto;
     max-width:1280px;
